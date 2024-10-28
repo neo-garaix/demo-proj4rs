@@ -1,6 +1,6 @@
 /**
  * Class used to create an insert to redirect to git project
- * @extends HTMLElement
+ * @extends HTMLAnchorElement
  */
 export class GitInsert extends HTMLAnchorElement {
   constructor() {
